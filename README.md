@@ -1,4 +1,4 @@
-# 💼 [Your Name] CV
+# 💼 [Yulianna Yoon] CV
 
 안녕하세요, 제 GitHub CV 저장소에 오신 것을 환영합니다!  
 여기에는 제 경력, 프로젝트, 기술 스택 및 성과를 정리해 두었습니다.  
