@@ -24,6 +24,6 @@
 ---
 
 ## 📫 Contact
-- Email: yulianna.yoon@email.com  
+- Email: yulianna.yoon@gmail.com  
 - LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/yulianna-yoon-xmars369369)  
 - GitHub: [github.com/yourusername](https://github.com/yourusername)  
