@@ -24,5 +24,5 @@ Here you will find an overview of my professional experience, projects, technica
 
 ## 📫 Contact
 - Email: yulianna.yoon@gmail.com  
-- LinkedIn: [linkedin.com/in/yulianna-yoon-xmars1010] 
+- LinkedIn: https://linkedin.com/in/yulianna-yoon-xmars1010  
 - GitHub: [github.com/yourusername](https://github.com/yuliannayoon)  
