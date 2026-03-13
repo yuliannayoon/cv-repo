@@ -18,7 +18,7 @@ Here you will find an overview of my professional experience, projects, technica
 - [📜 Publications](./docs/publications.md)
 - [🏅 Certificates](./docs/certificates.md)
 
-📑 [Download PDF CV](./cv.pdf)
+📑[Download PDF CV](./Yulianna_Yoon_CV.pdf)
 
 ---
 
